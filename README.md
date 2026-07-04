@@ -1,3 +1,1 @@
-# riscv-single-cycle
-Single-cycle RISC-V processor in Verilog — IITGN project
 As you finish your one module kindly upload it here so that others can take reference if they wish to...
