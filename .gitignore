@@ -1,0 +1,3 @@
+*.vcd
+datapath_sim
+*_sim
